@@ -8,6 +8,7 @@ Estudiante de Ingeniería en Informática. Me apasiona automatizar procesos, que
 
 ### 📫 Contáctame y Conóceme
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chris.zz_.tg)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chris.zz_.tg) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/@ChrisTxZzYa
+)
 
 🌐 **Visita mi [Portafolio Web Oficial](https://itschrispj.github.io)**
