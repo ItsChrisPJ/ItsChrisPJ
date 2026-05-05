@@ -1,4 +1,4 @@
-# Hola, soy Chris ✌️
+# Hola, soy Chris 
 
 Estudiante de Ingeniería en Informática. Me apasiona automatizar procesos, que todo sea más sencillo y lo más minimalista posible.
 
