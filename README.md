@@ -1,4 +1,4 @@
-# ¡Hola! Soy Cristopher Toloza 👋
+# ¡Hola! Soy Cristopher Toloza 
 
 Soy un desarrollador enfocado en la creación de soluciones lógicas, gestión de bases de datos y desarrollo backend. Me apasiona estructurar datos de manera eficiente y automatizar procesos utilizando código limpio y minimalista.
 
